@@ -1,0 +1,17 @@
+﻿  CANIMAL.cpp
+  CBIRD.cpp
+  CCAR.cpp
+  CConsole.cpp
+  CDINOSAUR.cpp
+  CGAME.cpp
+C:\Users\hhman\OneDrive\Desktop\New folder\src\CrossRoad\CGAME.cpp(577,35): warning C4805: '!=': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\hhman\OneDrive\Desktop\New folder\src\CrossRoad\CGAME.cpp(584,35): warning C4805: '!=': unsafe mix of type 'bool' and type 'int' in operation
+  CPEOPLE.cpp
+  CTRAFFICLIGHT.cpp
+  CTRUCK.cpp
+  CVEHICLE.cpp
+  Global.cpp
+  main.cpp
+  Point.cpp
+  Generating Code...
+  CrossRoad.vcxproj -> C:\Users\hhman\OneDrive\Desktop\New folder\src\x64\Debug\CrossRoad.exe

@@ -1,0 +1,10 @@
+| Enter name to save: |
+|>                    |
+|                     |
+
+|      Continue?      |
+|   Yes        No     |
+|   [Y]    [Any key]  |
+
+|    ~  You Won  ~    |
+|    *  You Lose  *   |
